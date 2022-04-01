@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps5-template/.idea/ps5-template.iml" filepath="$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps5-template/.idea/ps5-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps6-template/.idea/ps6-template.iml" filepath="$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps6-template/.idea/ps6-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps7-template/.idea/ps7-template.iml" filepath="$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps7-template/.idea/ps7-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps8-template/.idea/ps8-template.iml" filepath="$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps8-template/.idea/ps8-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps9-template/.idea/ps9-template.iml" filepath="$PROJECT_DIR$/../algorithms/6.006_19fall.006/Problem Sets/ps9-template/.idea/ps9-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tinyCLRS.iml" filepath="$PROJECT_DIR$/.idea/tinyCLRS.iml" />
+    </modules>
+  </component>
+</project>
